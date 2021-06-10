@@ -1,3 +1,3 @@
 # Springboard Data Science Career Track
 
-### This repository primarily holds the case studies and capstone projects in my study progress 
+### This repository primarily holds the case studies and mini projects in my study progress.
